@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #997C70;
+    --primary: #1B1833;
     --secondary: #F6F6F6;
     --light: #FFFFFF;
     --dark: #182628;
@@ -26,6 +26,10 @@ h6,
 
 .pt-6 {
     padding-top: 90px;
+}
+
+.navbar-nav{
+    color: aqua;
 }
 
 .pb-6 {
